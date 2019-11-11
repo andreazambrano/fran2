@@ -349,7 +349,7 @@ $(function() {
 	});
 	
 	/* 12. Scroll to id */
-	$('.to-top-btn, .scroll-btn').mPageScroll2id();
+	$('.to-top-btn, .Deslizar-btn').mPageScroll2id();
 	
 	/* 13. Touch, no touch */
 	var supports = (function() {
