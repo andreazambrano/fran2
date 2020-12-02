@@ -9046,8 +9046,8 @@ body.out .swiper-slide-active .portfolio-slider-fade {
   height:45px;
   bottom:20px;
   left:20px;
-  background-color:#25d366;
-  color:#fff;
+  /*background-color:#25d366;
+  color:#fff;*/
   border-radius:50%;
   text-align:center;
   font-size:45px;
@@ -9057,3 +9057,4 @@ body.out .swiper-slide-active .portfolio-slider-fade {
 .whatsapp-icon {
   margin-top:15px;
 }
+
